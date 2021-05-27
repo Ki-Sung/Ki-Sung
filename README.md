@@ -33,13 +33,13 @@ EDA, 회귀분석, 크롤링 등 main 프로젝트와 sub 프로젝트 등 다�
 </pre>
 
 <h3> 🛠 Skills: 배우고, 써보고, 경험했습니다. </h3>
-<pre>
-- Data Handling : python : numpy, pandas, matplotlib, seaborn, plotly, pyecharts
-- Web: Crawling : scrapy, BeautyfulSoup, Selenium
+
+- Data Handling : [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Plotly Badge](http://img.shields.io/badge/-Plotly%20-3F4F75?style=flat-square&logoColor=white&logo=plotly&link=https://plotly.com/)](https://plotly.com/) [![Pyecharts Badge](http://img.shields.io/badge/-Pyecharts%20-34E0A1?style=flat-square&logoColor=black&logo=pyecharts&link=https://pyecharts.org/#/en-us/)](https://pyecharts.org/#/en-us/)
+- Web: Crawling : [![Scrapy Badge](http://img.shields.io/badge/-Scrapy%20-43B02A?style=flat-square&&logoColor=white&logo=scrapy&link=https://scrapy.org/)](https://scrapy.org/)  [![BeautyfulSoup Badge](http://img.shields.io/badge/-BeautyfulSoup%20-00A4FD?style=flat-square&&logoColor=white&logo=beautyfulsoup&link=https://scrapy.org/)](https://scrapy.org/) [![Selenium Badge](http://img.shields.io/badge/-Selenium%20-43B02A?style=flat-square&&logoColor=white&logo=selenium&link=https://www.selenium.dev/)](https://www.selenium.dev/)
 - Server & DB: AWS EC2, MySQL Workbench, mongoDB
-- Machine Learning: sklearn, basic math & stats
+- Machine Learning: sklearn, basic math & stats 
 - Deep Learning: tensorflow, keras
-</pre>
+
 
 <h3> 🤝keep it touch </h3>
 
