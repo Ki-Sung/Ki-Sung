@@ -12,7 +12,7 @@ EDA, 회귀분석, 크롤링 등 main 프로젝트와 sub 프로젝트 등 다�
 
 <h3> 👔 Work Experience </h3>
 <pre>
-- Fast campus data science school 17기 2021.02 ~ 
+- Fast campus data science school 17기 2021.02 ~ 2021.07
 - Gucci Korea Duty Free Part 2015.12 ~ 2021.02
   - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
   - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
