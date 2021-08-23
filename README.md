@@ -13,6 +13,7 @@ EDA, 회귀분석, 크롤링, 분류프로젝트와 sub 프로젝트 등 다양�
 
 <h3> 👔 Work Experience </h3>
 <pre>
+- Wantedlab Free/Pre Onboarding Data Analysis Course 2기 2021.07.31 ~ 2021.08.27
 - Fast campus data science school 17기 2021.02 ~ 2021.07
 - Gucci Korea Duty Free Part 2015.12 ~ 2021.02
   - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
