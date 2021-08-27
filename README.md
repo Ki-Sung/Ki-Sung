@@ -44,7 +44,7 @@
 - Deep Learning: [![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow%20-FF6F00?style=flat-square&logoColor=white&logo=tensorflow&link=https://www.tensorflow.org/?hl=ko)](https://www.tensorflow.org/?hl=ko) [![Keras Badge](http://img.shields.io/badge/-Keras%20-D00000?style=flat-square&logoColor=white&logo=keras&link=https://keras.io/)](https://keras.io/)
 
 
-<h3> 🤝keep it touch </h3>
+<h3> 🤝 keep it touch </h3>
 
 [![Github Badge](http://img.shields.io/badge/-Github%20-black?style=flat-square&logo=github&link=https://github.com/Ki-Sung)](https://github.com/Ki-Sung) [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=notion&fontColor&logoColor=black&link=https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9)](https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kisung.kim.142/)](https://www.facebook.com/kisung.kim.142/) [![Instagram Badge](https://img.shields.io/badge/instagram-e45f5a?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kcs4912/)](https://www.instagram.com/kcs4912/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcs4912@gmail.com)](mailto:kcs4912@gmail.com) 
 	
