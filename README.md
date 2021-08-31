@@ -11,10 +11,15 @@
 참여한 프로젝트로는 EDA, 회귀분석, 크롤링, 분류 프로젝트와 sub 프로젝트 등 다양한 프로젝트에 참여하였습니다..
 </pre>
 
+<h3> 👨🏻‍💻 저는 이런 사람입니다.</h3>
+<pre>
+- 새로운 도전과 변화가 조금 두럽습니다만, 도전을 하겠다 마음먹으면 최선을 다하고, 변화에 적응하려 노력하며, 무엇보다 실패를 두려워하지 않습니다.
+- 혼자하는 업무보다는 다수와 협업하고 의견을 조율하며 소통기반의 업무를 선호합니다. 
+- 다른사람의 말을 기억하지 못할까봐 늘 메모와 기록을 일상화하고 있습니다.  
+</pre>
+
 <h3> 👔 Work Experience </h3>
 <pre>
-- Wantedlab Free/Pre Onboarding Data Analysis Course 2기 2021.07 ~ 2021.08
-- Fast campus data science school 17기 2021.02 ~ 2021.07
 - Gucci Korea Duty Free Part 2015.12 ~ 2021.02
   - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
   - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
@@ -27,11 +32,10 @@
 - Beauty Plus in New Jersey 2012.10 ~ 2013.09 - Intern : Sales Operator 및 영업관리    
 </pre>
 
-<h3> 👨🏻‍💻 저는 이런 사람입니다.</h3>
+<h3> ✏️ Education </h3>
 <pre>
-- 새로운 도전과 변화가 조금 두럽습니다만, 도전을 하겠다 마음먹으면 최선을 다하고, 변화에 적응하려 노력하며, 무엇보다 실패를 두려워하지 않습니다.
-- 혼자하는 업무보다는 다수와 협업하고 의견을 조율하며 소통기반의 업무를 선호합니다. 
-- 다른사람의 말을 기억하지 못할까봐 늘 메모와 기록을 일상화하고 있습니다.  
+- Wantedlab Free/Pre Onboarding Data Analysis Course 2기 2021.07 ~ 2021.08
+- Fast campus data science school 17기 2021.02 ~ 2021.07    
 </pre>
 
 <h3> 🛠 Skills: 배우고, 써보고, 경험했습니다. </h3>
