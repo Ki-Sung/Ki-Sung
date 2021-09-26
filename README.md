@@ -1,4 +1,4 @@
-# Hello (my)word! 👋
+# Hello word! 👋
 
 <pre>
 반갑습니다.
