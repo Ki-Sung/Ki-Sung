@@ -34,6 +34,7 @@ EDA, 회귀 분석, 크롤링, 분류 프로젝트 등 다양한 프로젝트에
 - Beauty Plus in New Jersey 2012.10 ~ 2013.09 - Intern : Sales Operator 및 영업관리    
 </pre>
 
+
 <h3> ✏️ Education </h3>
 <pre>
 - Wantedlab Free/Pre Onboarding Data Analysis Course 2기 2021.07 ~ 2021.08
