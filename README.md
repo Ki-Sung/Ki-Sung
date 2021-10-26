@@ -21,27 +21,6 @@
 - 다른사람의 말을 기억하지 못할까봐 늘 메모와 기록을 일상화하고 있습니다.
 </pre>
 
-<h3> 👔 Work Experience </h3>
-<pre>
-- Gucci Korea Duty Free Part 2015.12 ~ 2021.02
-  - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
-  - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
-  - 2019.01 ~ 2020.03 - Lotte Main Duty Free Gucci BTQ Store - Senior Sales Association : 매출 및 내국인 클래임 담당
-  - 2019.09 ~ 2019.12 - Doota Duty Free Gucci Watch Pop-up Store - Senior Sales Association : 매장 및 매출관리
-  - 2019.06 ~ 2019.09 - Shinsegae Gangnam Duty Free Gucci BTQ Store - Senior Sales Association : Back Office 담당
-  - 2017.07 ~ 2019.06 - Lotte Main Duty Free BTQ Store - Senior Sales Association : Back Office 관리 및 클래임 담당
-  - 2017.02 ~ 2017.06 - Gucci Korea HQ DF  Retail Operation Team - Junior Sales Association : DF Store 영업관리
-  - 2015.12 ~ 2017.02 - Lotte Main Duty Free BTQ Store - Junior Sales Association : 매장&개인 매출관리
-- Beauty Plus in New Jersey 2012.10 ~ 2013.09 - Intern : Sales Operator 및 영업관리    
-</pre>
-
-
-<h3> ✏️ Education </h3>
-<pre>
-- Wantedlab Free/Pre Onboarding Data Analysis Course 2기 2021.07 ~ 2021.08
-- Fast campus data science school 17기 2021.02 ~ 2021.07    
-</pre>
-
 <h3> 🛠 Skills: 배우고, 써보고, 경험했습니다. </h3>
 
 - Data Handling : [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&fontColor&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Plotly Badge](http://img.shields.io/badge/-Plotly%20-3F4F75?style=flat-square&logoColor=white&logo=plotly&link=https://plotly.com/)](https://plotly.com/) [![Pyecharts Badge](http://img.shields.io/badge/-Pyecharts%20-34E0A1?style=flat-square&logoColor=black&logo=pyecharts&link=https://pyecharts.org/)](https://pyecharts.org/)
@@ -51,6 +30,34 @@
 - Machine Learning: [![Sklearn Badge](http://img.shields.io/badge/-Sklearn%20-F7931E?style=flat-square&logoColor=black&logo=scikit-learn&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
 - Deep Learning: [![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow%20-FF6F00?style=flat-square&logoColor=white&logo=tensorflow&link=https://www.tensorflow.org/?hl=ko)](https://www.tensorflow.org/?hl=ko) [![Keras Badge](http://img.shields.io/badge/-Keras%20-D00000?style=flat-square&logoColor=white&logo=keras&link=https://keras.io/)](https://keras.io/)
 
+
+<h3> ✏️ Education </h3>
+<pre>
+- Wantedlab Free/Pre Onboarding Data Analysis Course 2기 수료 (2021.07 ~ 2021.08)
+  - 2021.08.09 ~ 2021.08.14 - 자비스앤빌런스 프로젝트 참여
+  - 2021.08.01 ~ 2021.08.07 - 원티드랩 주관 유니콘 기업 발굴하기 프로젝트 참여
+- Fast campus data science school 17기 수료 (2021.02 ~ 2021.07)
+  - 2021.06.17 ~ 2021.07.23 - 에어비앤비 첫 여행지 예측 프로젝트 참여 
+  - 2021.05.18 ~ 2021.07.23 - 호텔 정보 슬랙봇 서비스 프로젝트 참여 
+  - 2021.04.29 ~ 2021.07.14 - 하쿠호도 제일 주관 한국 수입차 시장 트렌드 분석, TV 광고 제안 서비스 프로젝트 참여
+  - 2021.04.20 ~ 2021.05.20 - 인도 중고차 시장 분석과 예측 프로젝트 참여 
+  - 2021.03.26 ~ 2021.04.21 - 코로나 시국 서울 공공자전거 이용량 분석 프로젝트 참여
+</pre>
+
+<h3> 👔 Work Experience </h3>
+<pre>
+- Gucci Korea Duty Free Part (2015.12 ~ 2021.02)
+  - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
+  - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
+  - 2019.01 ~ 2020.03 - Lotte Main Duty Free Gucci BTQ Store - Senior Sales Association : 매출 및 내국인 클래임 담당
+  - 2019.09 ~ 2019.12 - Doota Duty Free Gucci Watch Pop-up Store - Senior Sales Association : 매장 및 매출관리
+  - 2019.06 ~ 2019.09 - Shinsegae Gangnam Duty Free Gucci BTQ Store - Senior Sales Association : Back Office 담당
+  - 2017.07 ~ 2019.06 - Lotte Main Duty Free BTQ Store - Senior Sales Association : Back Office 관리 및 클래임 담당
+  - 2017.02 ~ 2017.06 - Gucci Korea HQ DF  Retail Operation Team - Junior Sales Association : DF Store 영업관리
+  - 2015.12 ~ 2017.02 - Lotte Main Duty Free BTQ Store - Junior Sales Association : 매장&개인 매출관리
+- Beauty Plus in New Jersey (2012.10 ~ 2013.09) 
+  - Intern : Sales Operator 및 영업관리    
+</pre>
 
 <h3> 🤝 keep it touch </h3>
 
