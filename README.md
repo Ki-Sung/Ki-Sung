@@ -50,6 +50,7 @@
 <h3> 👔 Work Experience </h3>
 <pre>
 - Aone Performance Factory (2021.12 ~ Present)
+  - Data Intelligence Team - Data Engineer
 - Gucci Korea Duty Free Part (2015.12 ~ 2021.02)
   - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
   - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
