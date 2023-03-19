@@ -1,19 +1,6 @@
-# Hello word! 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=Balck&height=300&section=header&text=Hello%20Word&fontSize=70)
 
-<pre>
-반갑습니다.
-에이원 퍼포먼스 팩토리에서 Data Intelligence 팀에서 데이터 엔지니어를 담당하고 있는 주니어 Gilbert 입니다.
-우리가 가지고 있는 데이터를 어떻게하면 사람들에게 쉽게 접근시킬까? 
-어떻게하면 데이터가 가지는 의미를 좀 더 쉽게, 좀 더 편하게 표현할지 늘 고민합니다.
-
-5년 3개월간 서비스 직에서 종사하다, 데이터의 중요성을 깨닫고 데이터 엔지니어로 직무를 전향하였습니다.
-언제나 좋은 엔지니어가 되기위해 최선을 다하고 있습니다 :)
-데이터 엔지니어가 되기 위해 "원티드 프리 온보딩 데이터 분석 코스 2기" 1 개월, "패스트캠퍼스 데이터사이언스 스쿨 17기" 5 개월 과정
-총 6 개월의 교육과정을 이수하였습니다.
-교욱중 EDA, 회귀 분석, 크롤링, 분류 프로젝트 등 다양한 프로젝트에 참여하였으며,
-현재 데이터 구조와 데이터가 수집되는 과정 등을 파악하기 위해 Web 개발 프로젝트에서 Backend 분야를 맡고 도전중 입니다.
-현재 데이터 구조와 분석을 위한 'javascript', Node.JS, 'SQL', 'Elastic Search'을 공부하고 있습니다.
-</pre>
+<img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true">
 
 <h3> 👨🏻‍💻 저는 이런 사람입니다.</h3>
 <pre>
@@ -33,6 +20,7 @@
 - Machine Learning: [![Sklearn Badge](http://img.shields.io/badge/-Sklearn%20-F7931E?style=flat-square&logoColor=black&logo=scikit-learn&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
 - Deep Learning: [![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow%20-FF6F00?style=flat-square&logoColor=white&logo=tensorflow&link=https://www.tensorflow.org/?hl=ko)](https://www.tensorflow.org/?hl=ko) [![Keras Badge](http://img.shields.io/badge/-Keras%20-D00000?style=flat-square&logoColor=white&logo=keras&link=https://keras.io/)](https://keras.io/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact"><br><br> 
 
 <h3> ✏️ Education </h3>
 <pre>
