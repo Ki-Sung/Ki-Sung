@@ -3,14 +3,43 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact"><br><br> 
 
-<h3> ⚔️ Stack </h3>
+<div align=center><h1>📚 STACKS</h1></div>
 
-- Data Handling : [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&fontColor&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Plotly Badge](http://img.shields.io/badge/-Plotly%20-3F4F75?style=flat-square&logoColor=white&logo=plotly&link=https://plotly.com/)](https://plotly.com/) [![Pyecharts Badge](http://img.shields.io/badge/-Pyecharts%20-34E0A1?style=flat-square&logoColor=black&logo=pyecharts&link=https://pyecharts.org/)](https://pyecharts.org/)
-- Dash Board Visualization: [![Tableau Badge](http://img.shields.io/badge/-Tableau%20-E97627?style=flat-square&&logoColor=white&logo=tableau&link=https://www.tableau.com/ko-kr)](https://www.tableau.com/ko-kr)
-- Web: Crawling : [![Scrapy Badge](http://img.shields.io/badge/-Scrapy%20-43B02A?style=flat-square&&logoColor=white&logo=scrapy&link=https://scrapy.org/)](https://scrapy.org/)  [![BeautyfulSoup Badge](http://img.shields.io/badge/-BeautyfulSoup%20-00A4FD?style=flat-square&&logoColor=white&logo=beautyfulsoup&link=https://scrapy.org/)](https://scrapy.org/) [![Selenium Badge](http://img.shields.io/badge/-Selenium%20-43B02A?style=flat-square&&logoColor=white&logo=selenium&link=https://www.selenium.dev/)](https://www.selenium.dev/)
-- Server & DB: [![AWS EC2 Badge](http://img.shields.io/badge/-AWS_EC2%20-232F3E?style=flat-square&&logoColor=orange&logo=amazon&link=https://aws.amazon.com/ko/)](https://aws.amazon.com/ko/) [![Workbench Badge](http://img.shields.io/badge/-Workbench%20-4479A1?style=flat-square&&logoColor=white&logo=mysql&link=https://www.mysql.com/products/workbench/)](https://www.mysql.com/products/workbench/) [![MongoDB Badge](http://img.shields.io/badge/-MongoDB%20-47A248?style=flat-square&&logoColor=white&logo=mongodb&link=https://www.mongodb.com/)](https://www.mongodb.com/)
-- Machine Learning: [![Sklearn Badge](http://img.shields.io/badge/-Sklearn%20-F7931E?style=flat-square&logoColor=black&logo=scikit-learn&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
-- Deep Learning: [![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow%20-FF6F00?style=flat-square&logoColor=white&logo=tensorflow&link=https://www.tensorflow.org/?hl=ko)](https://www.tensorflow.org/?hl=ko) [![Keras Badge](http://img.shields.io/badge/-Keras%20-D00000?style=flat-square&logoColor=white&logo=keras&link=https://keras.io/)](https://keras.io/)
+<div align=center> 
+  <br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <br>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+
+  <br>
+  
+</div>
 
 <h3> ✏️ Education </h3>
 <pre>
