@@ -75,11 +75,12 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 <div align=center> 
   <br>
+  <a href="kcs4912@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   <a href="https://github.com/Ki-Sung"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
-  <a href=><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
+  <a href="https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <a href="https://www.linkedin.com/in/kisung-kim-b65211218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  <a href="https://www.facebook.com/kisung.kim.142/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+  <a href="https://www.instagram.com/kcs4912/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <br>
   
 </div>
