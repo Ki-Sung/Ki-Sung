@@ -2,20 +2,20 @@
 
 ---
 
-**2021.12 - Present**  
+#### 2021.12 - Present 
 Data Engineer - Aone Performance Factory
 
-**2015.12 - 2021.02**    
+#### 2015.12 - 2021.02  
 Sales Performer - Gucci Korea Duty Free Part
 
-**2012.10 - 2013.09**
+#### 2012.10 - 2013.09
 Intern: Sales Operator - Beauty Plus in New Jersey
 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact"><br><br> 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h2>📚 STACKS</h2></div>
 
 <div align=center> 
   <br>
@@ -53,7 +53,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   
 </div>
 
-<h3> ✏️ Education </h3>
+<div><h2>✏️ Education </h2></div>
 <pre>
 - Wantedlab Free/Pre Onboarding Data Analysis Course 2기 수료 (2021.07 ~ 2021.08)
   - 2021.08.09 ~ 2021.08.14 - 자비스앤빌런스 프로젝트 참여
@@ -66,22 +66,6 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   - 2021.03.26 ~ 2021.04.21 - 코로나 시국 서울 공공자전거 이용량 분석 프로젝트 참여
 </pre>
 
-<h3> 👔 Work Experience </h3>
-<pre>
-- Aone Performance Factory (2021.12 ~ Present)
-  - Data Intelligence Team - Data Engineer
-- Gucci Korea Duty Free Part (2015.12 ~ 2021.02)
-  - 2020.12 ~ 2021.02 - Lotte World Tower Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출 관리
-  - 2019.03 ~ 2021.12 - Shinsegae Main Duty Free Gucci Watch - Senior Sales Association : 매장 및 매출관리 
-  - 2019.01 ~ 2020.03 - Lotte Main Duty Free Gucci BTQ Store - Senior Sales Association : 매출 및 내국인 클래임 담당
-  - 2019.09 ~ 2019.12 - Doota Duty Free Gucci Watch Pop-up Store - Senior Sales Association : 매장 및 매출관리
-  - 2019.06 ~ 2019.09 - Shinsegae Gangnam Duty Free Gucci BTQ Store - Senior Sales Association : Back Office 담당
-  - 2017.07 ~ 2019.06 - Lotte Main Duty Free BTQ Store - Senior Sales Association : Back Office 관리 및 클래임 담당
-  - 2017.02 ~ 2017.06 - Gucci Korea HQ DF  Retail Operation Team - Junior Sales Association : DF Store 영업관리
-  - 2015.12 ~ 2017.02 - Lotte Main Duty Free BTQ Store - Junior Sales Association : 매장&개인 매출관리
-- Beauty Plus in New Jersey (2012.10 ~ 2013.09) 
-  - Intern : Sales Operator 및 영업관리    
-</pre>
 
 <h3> 🤝 keep it touch </h3>
 
