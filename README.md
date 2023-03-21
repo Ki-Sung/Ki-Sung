@@ -1,5 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20KISUNG!&fontSize=48)
 
+---
+
+**2021.12 - Present**  
+Data Engineer - Aone Performance Factory
+
+**2015.12 - 2021.02**    
+Sales Performer - Gucci Korea Duty Free Part
+
+**2012.10 - 2013.09**
+Intern: Sales Operator - Beauty Plus in New Jersey
+
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact"><br><br> 
 
 <div align=center><h1>📚 STACKS</h1></div>
