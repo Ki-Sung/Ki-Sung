@@ -55,6 +55,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   
 </div>
 
+
 <div><h2>✏️ Education </h2></div>
 <pre>
 - Wantedlab Free/Pre Onboarding Data Analysis Course 2기 수료 (2021.07 ~ 2021.08)
@@ -68,7 +69,17 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   - 2021.03.26 ~ 2021.04.21 - 코로나 시국 서울 공공자전거 이용량 분석 프로젝트 참여
 </pre>
 
+---
 
-<h3> 🤝 keep it touch </h3>
+<div align=center><h3> 🤝 keep it touch </h3></div>
 
-[![Github Badge](http://img.shields.io/badge/-Github%20-black?style=flat-square&logo=github&link=https://github.com/Ki-Sung)](https://github.com/Ki-Sung) [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=notion&fontColor&logoColor=black&link=https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9)](https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9) [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kisung-kim-b65211218/)](https://www.linkedin.com/in/kisung-kim-b65211218/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kisung.kim.142/)](https://www.facebook.com/kisung.kim.142/) [![Instagram Badge](https://img.shields.io/badge/instagram-e45f5a?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kcs4912/)](https://www.instagram.com/kcs4912/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcs4912@gmail.com)](mailto:kcs4912@gmail.com)
+<div align=center> 
+  <br>
+  <a href="https://github.com/Ki-Sung"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
+  <a href=><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <br>
+  
+</div>
