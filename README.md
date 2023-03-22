@@ -23,6 +23,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
