@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20KISUNG!&fontSize=48)
 
 ---
-
+<div align=center> 
+  
 #### 2021.12 - Present 
 Data Engineer - Aone Performance Factory
 
@@ -10,12 +11,12 @@ Sales Performer - Gucci Korea Duty Free Part
 
 #### 2012.10 - 2013.09
 Intern: Sales Operator - Beauty Plus in New Jersey
-
+</div>
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent">
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent"></div>
 
 <div><h2>📚 STACKS</h2></div>
 
