@@ -12,6 +12,7 @@ Sales Performer - Gucci Korea Duty Free Part
 #### 2012.10 - 2013.09
 Intern: Sales Operator - Beauty Plus in New Jersey
 </div>
+
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
