@@ -2,6 +2,8 @@
 
 ---
 <div align=center> 
+
+### 👔 JOP EXPERIENCE
   
 #### 2021.12 - Present 
 Data Engineer - Aone Performance Factory
@@ -19,7 +21,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent"></div>
 
-<div><h2>📚 STACKS</h2></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
   <br>
@@ -59,7 +61,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 </div>
 
 
-<div><h2>✏️ Education </h2></div>
+<div align=center><h2>✏️ Education </h2></div>
 <pre>
 - Wantedlab Free/Pre Onboarding Data Analysis Course 2기 수료 (2021.07 ~ 2021.08)
   - 2021.08.09 ~ 2021.08.14 - 자비스앤빌런스 프로젝트 참여
