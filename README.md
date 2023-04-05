@@ -92,5 +92,3 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   <br>
   
 </div>
-
- 
