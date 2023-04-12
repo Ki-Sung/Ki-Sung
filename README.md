@@ -92,4 +92,5 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   <br>
   
 </div>
-
+    
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&section=footer)
