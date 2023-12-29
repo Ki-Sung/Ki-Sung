@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48)
 
 ---
 <div align=center> 
@@ -80,4 +80,4 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   
 </div>
     
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=footer)
