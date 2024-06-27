@@ -43,9 +43,12 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
+  <br>
+  <img src="https://img.shields.io/badge/amazonaws ec2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black"> 
+  <img src="https://img.shields.io/badge/ncloud vpc-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -67,9 +70,9 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 <div align=center> 
   <br>
+  <a href="https://ki-sung.github.io/"><img src="https://img.shields.io/badge/My blog-33FFCE?style=for-the-badge&logo=githubpages&logoColor=black">
   <a href="mailto:kcs4912@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   <a href="https://github.com/Ki-Sung"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
-  <a href="https://www.notion.so/Gilbert-Kim-Ki-sung-3189736ac5cb4935847b60bc6c4635b9"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     
   <br>
   <a href="https://www.linkedin.com/in/kisung-kim-b65211218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
