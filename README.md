@@ -66,7 +66,11 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 ---
 
-<div align=center><h3> 🤝 keep it touch </h3></div>
+<div align=center>
+  <h3> 
+    🤝 keep it touch 
+  </h3>
+</div>
 
 <div align=center> 
   <br>
@@ -82,5 +86,5 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   <br>
   
 </div>
-    
+
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=footer)
