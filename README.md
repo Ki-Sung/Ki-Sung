@@ -19,7 +19,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook"> <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&include_all_commits=true&count_private=ture&line_height=20"></div>
+<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook"> <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20"></div>
 
 <div align=center><h2>📚 STACKS</h2></div>
 
