@@ -25,11 +25,6 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
-  <!-- GitHub 활동 스트릭 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki-Sung&theme=transparent">
-</div>
-
-<div align=center>
   <!-- GitHub 사용 언어 통계 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook">
   <!-- 전체 GitHub 통계 -->
