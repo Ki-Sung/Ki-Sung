@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48)
+<div align="center" style="width: 100%;">
+  <!-- 해더 설정 -->
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48" style="width: 100%; max-width: 100%;"/>
+</div>
 
 ---
+
 <div align=center> 
 
 ### 👔 JOP EXPERIENCE
@@ -13,13 +17,24 @@ Sales Performer - Gucci Korea Duty Free Part
 
 #### 2012.10 - 2013.09
 Intern: Sales Operator - Beauty Plus in New Jersey
+
 </div>
 
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook"> <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20"></div>
+<div align=center>
+  <!-- GitHub 활동 스트릭 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki-Sung&theme=transparent">
+</div>
+
+<div align=center>
+  <!-- GitHub 사용 언어 통계 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook">
+  <!-- 전체 GitHub 통계 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20&show_owner=true">
+</div>
 
 <div align=center><h2>📚 STACKS</h2></div>
 
@@ -87,4 +102,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=footer)
+<div align="center" style="width: 100%;">
+  <!-- 푸터 설정 -->
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=footer" style="width: 100%; max-width: 100%;"/>
+</div>
