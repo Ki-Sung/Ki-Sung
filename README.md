@@ -7,15 +7,19 @@
 
 <div align=center> 
 
-### 👔 JOP EXPERIENCE
+## 👔 JOP EXPERIENCE
   
-#### 2021.12 - Present 
-Data Engineer - Aone Performance Factory
+### 2021.12 - Present 
+**Aone Performance Factory - Data Intelligence Team**
 
-#### 2015.12 - 2021.02  
+**2025.06.01 ~ Present** - Data Intelligence Head Team Leader
+
+**2021.12.27 ~ 2025.05.30** - Data Intelligence Team Data Engineer
+
+### 2015.12 - 2021.02  
 Sales Performer - Gucci Korea Duty Free Part
 
-#### 2012.10 - 2013.09
+### 2012.10 - 2013.09
 Intern: Sales Operator - Beauty Plus in New Jersey
 
 </div>
