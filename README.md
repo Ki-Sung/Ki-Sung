@@ -30,7 +30,7 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 <div align=center>
   <!-- GitHub 사용 언어 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook,html,css,scss">
   <!-- 전체 GitHub 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&count_private=true&line_height=20&show_owner=true">
 </div>
