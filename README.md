@@ -26,14 +26,16 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ki-Sung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ki-Sung&bg_color=fffff&color=708090&theme=github)](https://github.com/Ki-Sung/github-readme-activity-graph)
 
 <div align=center>
   <!-- GitHub 사용 언어 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&hide=jupyter%20notebook,html,css,scss">
+  <img alt="My Top Language" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ki-Sung&layout=compact&theme=transparent&count_private=true&hide=jupyter%20notebook,html,css,scss&cache_seconds=21600&v=3">
   <!-- 전체 GitHub 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&count_private=true&line_height=20&show_owner=true">
+  <img alt="My Github Stat" src="https://github-readme-stats-fast.vercel.app/api?username=Ki-Sung&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20&show_owner=true">
 </div>
+
+<img scr="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ki-Sung&theme=default">
 
 <div align=center><h2>📚 STACKS</h2></div>
 
