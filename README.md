@@ -1,6 +1,6 @@
 <div align="center" style="width: 100%;">
   <!-- 해더 설정 -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48" style="width: 100%; max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:0A66C2,100:33FFCE&height=300&section=header&text=Hello%20Word!👋%20I%20AM%20GILBERT!&fontSize=48" style="width: 100%; max-width: 100%;"/>
 </div>
 
 ---
@@ -128,5 +128,5 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 
 <div align="center" style="width: 100%;">
   <!-- 푸터 설정 -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=footer" style="width: 100%; max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:0A66C2,100:33FFCE&height=100&section=footer" style="width: 100%; max-width: 100%;"/>
 </div>
