@@ -112,18 +112,9 @@ Intern: Sales Operator - Beauty Plus in New Jersey
 </div>
 
 <div align=center> 
-  <br>
   <a href="https://ki-sung.github.io/"><img src="https://img.shields.io/badge/My blog-33FFCE?style=for-the-badge&logo=githubpages&logoColor=black">
   <a href="mailto:kcs4912@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  <a href="https://github.com/Ki-Sung"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
-    
-  <br>
   <a href="https://www.linkedin.com/in/kisung-kim-b65211218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  <a href="https://www.facebook.com/kisung.kim.142/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-  <a href="https://www.instagram.com/kcs4912/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    
-  <br>
-  
 </div>
 
 <div align="center" style="width: 100%;">
