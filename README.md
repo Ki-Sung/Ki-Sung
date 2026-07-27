@@ -10,11 +10,11 @@
 ## 👔 JOP EXPERIENCE
   
 ### 2021.12 - Present 
-**Aone Performance Factory - Data Intelligence Team**
+**Aone Performance Factory - Development Division Back-end Team**
 
-**2025.06.01 ~ Present** - Data Intelligence Head Team Leader
+**2025.07.15 ~ Present** - Development Division Back-end Team
 
-**2021.12.27 ~ 2025.05.30** - Data Intelligence Team Data Engineer
+**2021.12.27 ~ 2026.07.14** - Data Intelligence Team Data Engineer
 
 ### 2015.12 - 2021.02  
 Sales Performer - Gucci Korea Duty Free Part
