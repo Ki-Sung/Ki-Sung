@@ -10,7 +10,7 @@
 ## 👔 JOP EXPERIENCE
   
 ### 2021.12 - Present 
-**Aone Performance Factory - Development Division Back-end Team**
+**Aone Media Group Korea - Development Division Back-end Team**
 
 **2025.07.15 ~ Present** - Development Division Back-end Team
 
