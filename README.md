@@ -9,7 +9,7 @@
 
 ## 👔 JOP EXPERIENCE
   
-### 2021.12 - Present 
+### 2021.12 - 2026.09.22
 **Aone Media Group - Development Division Back-end Team**
 
 **2025.07.15 ~ Present** - Development Division Back-end Team
