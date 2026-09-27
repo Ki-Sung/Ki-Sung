@@ -9,12 +9,8 @@
 
 ## 👔 JOP EXPERIENCE
   
-### 2021.12 - 2026.09.22
-**Aone Media Group - Development Division Back-end Team**
-
-**2025.07.15 ~ Present** - Development Division Back-end Team
-
-**2021.12.27 ~ 2026.07.14** - Data Intelligence Team Data Engineer
+### 2021.12 - 2026.09.22 
+Aone Media Group - Development Division Back-end Team
 
 ### 2015.12 - 2021.02  
 Sales Performer - Gucci Korea Duty Free Part
